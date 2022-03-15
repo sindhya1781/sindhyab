@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
 ---
 
 Hi, my name is Sindhya Balasubramanian. I am an AI enthusiast - currently pursuing my Masters in Data Science at Northeastern University. My passion for the subject ebbs from five years of work experience with large technology consulting companies focused on Data Analytics, Supervised and Unsupervised Machine Learning, Hypothesis Testing and Business Analytics. I am quick to my feet and love breaking problems down to understand what's really happening behind the closed problem doors.   
