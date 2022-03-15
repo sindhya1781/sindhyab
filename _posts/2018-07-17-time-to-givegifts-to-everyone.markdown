@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Multi-Agent Adversarial Search
-date:   2018-07-17 15:01:35 +0300
+date:   2022-03-05 15:01:35 +0300
 image:  04.jpg
 tags:   Artificial Intelligence
 ---
