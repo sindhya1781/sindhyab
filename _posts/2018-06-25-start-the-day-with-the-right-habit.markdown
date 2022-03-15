@@ -25,4 +25,4 @@ The following clustering techniques were tried and compared for the project -
 a. Hierarchical Clustering 
 b. k-Means Clustering
 
-| Code is available to be viewed on request |
+| Code is available to be viewed on Github on request |
