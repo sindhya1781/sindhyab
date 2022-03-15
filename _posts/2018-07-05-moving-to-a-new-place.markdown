@@ -26,3 +26,5 @@ Min Lambda Noted - 218.8954
 Results - 
 1. #fnn has the highest positive coefficient noted that impacts retweets
 2. Some other key terms noted here are photographs, quarantine, nuclear in the top 20 coefficients that positively impact retweets
+
+| Code is available to be viewed on Github on request |
