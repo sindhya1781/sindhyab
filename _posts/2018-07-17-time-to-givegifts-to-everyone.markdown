@@ -14,4 +14,4 @@ The following utilities were implemented as a part of this project -
 - Implementation of multiagent minimax algorithm with Alpha Beta pruning
 - Implementation of Expectimax algorithms (with evaluation functions)
 
-<Code can be viewed on Github on request>
+| Code can be viewed on Github on request |
